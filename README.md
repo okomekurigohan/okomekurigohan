@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @okomekurigohan
-- 👀 I’m interested in ...create game , make robot
-- 🌱 I’m currently learning ...Unity , Arduino
+- 👋 Hi, I'm @okomekurigohan
+- 👀 I'm interested in ... mechatronics, embedded gadgets, automation — basically anything that catches my eye
+- 🌱 I'm currently learning ... ESP32 / ESP-IDF, control software, and building things with AI tools
+- 🔭 I'm currently working on ... a talking AI gadget (M5Stack CoreS3 Lite) — I ported it to Meta's muse-gadget-sdk
 - 📫 How to reach me ... mail to "okomekurigohan@yahoo.co.jp"
 
 <!---
