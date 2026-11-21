@@ -1,8 +1,7 @@
 - 👋 Hi, I'm @okomekurigohan
 - 👀 I'm interested in ... mechatronics, embedded gadgets, automation — basically anything that catches my eye
 - 🌱 I'm currently learning ... ESP32 / ESP-IDF, control software, and building things with AI tools
-- 🔭 I'm currently working on ... a talking AI gadget (M5Stack CoreS3 Lite)
-- 📌 Merged PR: [CoreS3 Lite board support](https://github.com/facebookincubator/muse-gadget-sdk/pull/455) in Meta's muse-gadget-sdk
+- 🔭 I'm currently working on ... a talking AI gadget (M5Stack CoreS3 Lite) — my board port was merged into Meta's muse-gadget-sdk
 - 📫 How to reach me ... mail to "okomekurigohan@yahoo.co.jp"
 
 <!---
